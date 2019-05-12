@@ -1,6 +1,9 @@
 # Python3 SPI
 For mksocfpga cramps stepper trinamic spi configuration
 
+Kicad LTC-Spi HW interfaces:
+https://github.com/the-snowwhite/socfpga-kicad/tree/master/SPI
+
 initial setup:
 
     sudo apt install python3-pip
