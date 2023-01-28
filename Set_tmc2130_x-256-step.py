@@ -15,7 +15,7 @@ USTEP = 0x00008008
 NUM=int(sys.argv[1])
 
 spi = spidev.SpiDev()
-spi.open(32766, 0)
+spi.open(32765, 0)
 spi.max_speed_hz = 3000000
 spi.mode = 0b11
 
